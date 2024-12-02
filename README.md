@@ -23,4 +23,11 @@ author - Shreya Kulkarni. <br>
 11. Merging Code <br>
     "git diff <-->" (to compare commits,branches,files &more) <br>
     "git merge <-->" (merge branches) <br>
-
+12. Pull request <br>
+    "git pull origin main" (fetch &download content from remote repo and immediately update the local repo to match content) <br>
+13. Undoing Changes "git reset <-filename->" / "git reset" <br>
+    "git reset HEAD ~1 " (committted changes for 1 commit) <br>
+    "git reset <-commit hash->" <br>
+    "git reser --hard <-commit hash> (commited changes for many commits) <br>
+14. Fork (new repo that shares code and visibility settings with the original "upstream repo) (rough copy) <br>
+    
