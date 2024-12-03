@@ -1,4 +1,4 @@
-# trial
+# GitHub Basics
 This is my first repository as a GitHub begineer.
 <br>
 author - Shreya Kulkarni. <br>
